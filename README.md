@@ -2,4 +2,4 @@
 파이썬다시시작하겠읍니다
 
 
-[GIL](https://github.com/baekse/PythonGongbu/GIL.ipynb)
+[GIL이 머임](https://github.com/BaekSe/PythonGongbu/blob/master/GIL.ipynb)
