@@ -7,3 +7,6 @@
 * [Part 2 - Data Structures](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part2)
     * [Chapter 2 - An Array of Sequences](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part2/Chap2.ipynb)
     * [Chapter 3 - Dictionaries and Sets](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part2/Chap3.ipynb)
+    * [Chapter 4 - Text versus Bytes](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part2/Chap4.ipynb)
+* [Part 3 - Functions as Objects](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part3)
+    * [Chapter 5 - First-Class Functions](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part3/Chap5.ipynb)
