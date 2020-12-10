@@ -10,3 +10,4 @@
     * [Chapter 4 - Text versus Bytes](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part2/Chap4.ipynb)
 * [Part 3 - Functions as Objects](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part3)
     * [Chapter 5 - First-Class Functions](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part3/Chap5.ipynb)
+    * [Chapter 6 - Design Patterns with First-Class Functions](https://github.com/BaekSe/PythonGongbu/blob/master/FluentPython/Part3/Chap6.ipynb)

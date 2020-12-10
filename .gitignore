@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 floats.bin
 .DS_Store
+*.pyc
